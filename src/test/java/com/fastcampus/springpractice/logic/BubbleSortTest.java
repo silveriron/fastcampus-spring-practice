@@ -1,4 +1,4 @@
-package com.fastcampus.logic;
+package com.fastcampus.springpractice.logic;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

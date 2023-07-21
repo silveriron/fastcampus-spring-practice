@@ -1,6 +1,6 @@
-package com.fastcampus.service;
+package com.fastcampus.springpractice.service;
 
-import com.fastcampus.logic.JavaSort;
+import com.fastcampus.springpractice.logic.JavaSort;
 
 import java.util.List;
 
